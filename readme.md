@@ -1,10 +1,3 @@
-![](https://res.cloudinary.com/rizkicitra/image/upload/q_100,f_webp/rimzzlabs/og "OG Image")
-
-# Website
-
-A personal website built with [Astro](https://github.com/withastro/astro), contains some pages and a few blog posts, blog posts update from weekly to monthly.
-
-Found bugs? file an issue and start writing your PR.
 
 ## Infrastructure
 
